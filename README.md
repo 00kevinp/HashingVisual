@@ -1,8 +1,6 @@
-# HashingVisual
-Visualizing various hashing methods, from basic addition of salt to letting AI create their own
+# Representing the Significance of Hashing in Password Storage
+## CMPE 412 -- Networks & Secutiy
 
-Representing the Significance of Hashing in Password Storage
-CMPE 412-01
 This project discusses the critical role of hashing in securing passwords within software
 applications. By implementing a diverse array of hashing methods, including simple hashing,
 peppered hashing, iterated hashing, XOR hashing, rotated hashing, a “crazy” hash, and finally
